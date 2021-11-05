@@ -9,6 +9,7 @@ from django.urls import reverse
 # Create your views here.
 def notifications(request):
     template = loader.get_template('notifications/notifications.html')
+    a ='a'
 
     notifications = Notification.objects.filter(user=request.user, is_seen=False).order_by('-id')
     notifications2 = Notification.objects.filter(user=request.user, is_seen=False).order_by('-id')
