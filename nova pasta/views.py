@@ -11,6 +11,7 @@ def notifications(request):
     template = loader.get_template('notifications/notifications.html')
 
     notifications = Notification.objects.filter(user=request.user, is_seen=False).order_by('-id')
+    notifications2 = Notification.objects.filter(user=request.user, is_seen=False).order_by('-id')
 
     for notification in notifications:
         notification.post_view +=1
