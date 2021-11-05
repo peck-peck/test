@@ -1,0 +1,710 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-01 17:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\PocketStore\settings.py:152
+msgid "English"
+msgstr ""
+
+#: .\PocketStore\settings.py:153
+msgid "Portuguese"
+msgstr ""
+
+#: .\PocketStore\settings.py:154
+msgid "Italian"
+msgstr ""
+
+#: .\PocketStore\urls.py:41
+msgid "admin/"
+msgstr ""
+
+#: .\advertisement\templates\advertisement\announcements.html:32
+#: .\advertisement\templates\advertisement\announcements.html:36
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:110
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:114
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:288
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:292
+#: .\shop\templates\shop\home.html:22 .\shop\templates\shop\home.html:32
+#: .\shop\templates\shop\home.html:44
+msgid "Learn more"
+msgstr ""
+
+#: .\advertisement\templates\advertisement\job_ads.html:26
+#: .\advertisement\templates\advertisement\job_ads.html:32
+#: .\advertisement\templates\advertisement\user_city_ads.html:26
+#: .\advertisement\templates\advertisement\user_city_ads.html:32
+#: .\advertisement\templates\advertisement\user_country_ads.html:25
+#: .\advertisement\templates\advertisement\user_country_ads.html:31
+#: .\notifications\templates\notifications\notifications.html:26
+#: .\notifications\templates\notifications\notifications.html:32
+#: .\public_posts\templates\public_posts\1another_posts.html:26
+#: .\public_posts\templates\public_posts\1another_posts.html:32
+#: .\public_posts\templates\public_posts\1another_posts_city.html:26
+#: .\public_posts\templates\public_posts\1another_posts_city.html:32
+#: .\public_posts\templates\public_posts\1another_posts_country.html:26
+#: .\public_posts\templates\public_posts\1another_posts_country.html:32
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:28
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:34
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:27
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:33
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:27
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:33
+#: .\public_posts\templates\public_posts\local_user_posts.html:25
+#: .\public_posts\templates\public_posts\user_country_posts.html:28
+#: .\public_posts\templates\public_posts\user_country_posts.html:34
+#: .\shop\templates\shop\comment.html:10
+#: .\shop\templates\shop\user_shop_posts.html:26
+#: .\shop\templates\shop\user_shop_posts.html:32
+#: .\shop\templates\shop\user_store.html:34
+#: .\shop\templates\shop\user_store.html:40
+#: .\shop\templates\shop\user_store.html:299
+msgid "Posts"
+msgstr ""
+
+#: .\advertisement\templates\advertisement\job_ads.html:45
+#: .\advertisement\templates\advertisement\user_city_ads.html:45
+#: .\advertisement\templates\advertisement\user_country_ads.html:44
+#: .\notifications\templates\notifications\notifications.html:45
+#: .\public_posts\templates\public_posts\1another_posts.html:45
+#: .\public_posts\templates\public_posts\1another_posts_city.html:45
+#: .\public_posts\templates\public_posts\1another_posts_country.html:45
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:47
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:44
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:45
+#: .\public_posts\templates\public_posts\local_user_posts.html:35
+#: .\public_posts\templates\public_posts\user_country_posts.html:46
+#: .\shop\templates\shop\user_shop_posts.html:43
+#: .\shop\templates\shop\user_store.html:53
+msgid "Notifications"
+msgstr ""
+
+#: .\advertisement\templates\advertisement\job_ads.html:55
+#: .\advertisement\templates\advertisement\job_ads.html:100
+#: .\advertisement\templates\advertisement\job_ads.html:132
+#: .\advertisement\templates\advertisement\user_city_ads.html:55
+#: .\advertisement\templates\advertisement\user_city_ads.html:100
+#: .\advertisement\templates\advertisement\user_city_ads.html:134
+#: .\advertisement\templates\advertisement\user_country_ads.html:54
+#: .\advertisement\templates\advertisement\user_country_ads.html:99
+#: .\advertisement\templates\advertisement\user_country_ads.html:131
+#: .\notifications\templates\notifications\notifications.html:55
+#: .\public_posts\templates\public_posts\1another_posts.html:55
+#: .\public_posts\templates\public_posts\1another_posts_city.html:55
+#: .\public_posts\templates\public_posts\1another_posts_country.html:55
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:57
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:53
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:55
+#: .\public_posts\templates\public_posts\local_user_posts.html:44
+#: .\public_posts\templates\public_posts\user_country_posts.html:55
+#: .\shop\templates\shop\user_shop_posts.html:52
+#: .\shop\templates\shop\user_store.html:63
+#: .\users\templates\registration\login.html:29
+msgid "Job ads"
+msgstr ""
+
+#: .\advertisement\templates\advertisement\job_ads.html:64
+#: .\advertisement\templates\advertisement\user_city_ads.html:64
+#: .\advertisement\templates\advertisement\user_country_ads.html:63
+#: .\notifications\templates\notifications\notifications.html:64
+#: .\public_posts\templates\public_posts\1another_posts.html:64
+#: .\public_posts\templates\public_posts\1another_posts_city.html:64
+#: .\public_posts\templates\public_posts\1another_posts_country.html:64
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:66
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:62
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:64
+#: .\public_posts\templates\public_posts\local_user_posts.html:53
+#: .\public_posts\templates\public_posts\user_country_posts.html:64
+#: .\shop\templates\shop\all_posts.html:13
+#: .\shop\templates\shop\list_of_products_added_to_cart.html:10
+#: .\shop\templates\shop\user_shop_posts.html:61
+#: .\shop\templates\shop\user_store.html:72
+msgid "My store"
+msgstr ""
+
+#: .\advertisement\templates\advertisement\job_ads.html:76
+#: .\advertisement\templates\advertisement\user_city_ads.html:76
+#: .\advertisement\templates\advertisement\user_country_ads.html:75
+#: .\notifications\templates\notifications\notifications.html:76
+#: .\public_posts\templates\public_posts\1another_posts.html:76
+#: .\public_posts\templates\public_posts\1another_posts_city.html:76
+#: .\public_posts\templates\public_posts\1another_posts_country.html:76
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:78
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:74
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:76
+#: .\public_posts\templates\public_posts\local_user_posts.html:65
+#: .\public_posts\templates\public_posts\user_country_posts.html:76
+#: .\shop\templates\shop\user_shop_posts.html:73
+#: .\shop\templates\shop\user_store.html:84
+#: .\shop\templates\shop\user_store.html:337
+msgid "More"
+msgstr ""
+
+#: .\advertisement\templates\advertisement\job_ads.html:200
+msgid "UNABLE TO FIND JOB POSTING"
+msgstr ""
+
+#: .\advertisement\templates\advertisement\job_ads.html:211
+#: .\advertisement\templates\advertisement\user_city_ads.html:217
+#: .\advertisement\templates\advertisement\user_country_ads.html:214
+#: .\notifications\templates\notifications\notifications.html:232
+#: .\public_posts\templates\public_posts\1another_posts.html:167
+#: .\public_posts\templates\public_posts\1another_posts_city.html:167
+#: .\public_posts\templates\public_posts\1another_posts_country.html:166
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:202
+#: .\public_posts\templates\public_posts\local_user_posts.html:242
+#: .\public_posts\templates\public_posts\user_country_posts.html:242
+#: .\searches\templates\searches\view.html:105
+#: .\shop\templates\shop\all_posts.html:41
+#: .\shop\templates\shop\comment.html:190
+#: .\shop\templates\shop\comment_reply.html:62
+#: .\shop\templates\shop\list_of_products_added_to_cart.html:71
+#: .\shop\templates\shop\user_shop_posts.html:249
+#: .\shop\templates\shop\user_store.html:500
+msgid "previous"
+msgstr ""
+
+#: .\advertisement\templates\advertisement\job_ads.html:215
+#: .\advertisement\templates\advertisement\user_city_ads.html:221
+#: .\advertisement\templates\advertisement\user_country_ads.html:218
+#: .\notifications\templates\notifications\notifications.html:236
+#: .\public_posts\templates\public_posts\1another_posts.html:171
+#: .\public_posts\templates\public_posts\1another_posts_city.html:171
+#: .\public_posts\templates\public_posts\1another_posts_country.html:170
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:206
+#: .\public_posts\templates\public_posts\local_user_posts.html:249
+#: .\public_posts\templates\public_posts\user_country_posts.html:246
+#: .\searches\templates\searches\view.html:112
+#: .\shop\templates\shop\all_posts.html:45
+#: .\shop\templates\shop\comment.html:194
+#: .\shop\templates\shop\comment_reply.html:66
+#: .\shop\templates\shop\home1.html:61
+#: .\shop\templates\shop\list_of_products_added_to_cart.html:75
+#: .\shop\templates\shop\user_shop_posts.html:253
+#: .\shop\templates\shop\user_store.html:504
+msgid "next"
+msgstr ""
+
+#: .\advertisement\templates\advertisement\user_city_ads.html:206
+#: .\advertisement\templates\advertisement\user_country_ads.html:204
+msgid "UNABLE TO FIND JOB POSTING IN"
+msgstr ""
+
+#: .\notifications\templates\notifications\notifications.html:91
+msgid "Clear all notifications"
+msgstr ""
+
+#: .\notifications\templates\notifications\notifications.html:108
+msgid "You reacted to your own post"
+msgstr ""
+
+#: .\notifications\templates\notifications\notifications.html:119
+msgid "Likes your post"
+msgstr ""
+
+#: .\notifications\templates\notifications\notifications.html:148
+msgid "You added this comment to your post"
+msgstr ""
+
+#: .\notifications\templates\notifications\notifications.html:154
+msgid "commented on your post"
+msgstr ""
+
+#: .\notifications\templates\notifications\notifications.html:178
+msgid "replied to a comment on your post"
+msgstr ""
+
+#: .\notifications\templates\notifications\notifications.html:201
+msgid "You have added your product to your shopping list"
+msgstr ""
+
+#: .\notifications\templates\notifications\notifications.html:210
+msgid "added your product to his shopping list"
+msgstr ""
+
+#: .\notifications\templates\notifications\notifications.html:256
+#: .\public_posts\templates\public_posts\1another_posts.html:94
+#: .\public_posts\templates\public_posts\1another_posts.html:210
+#: .\public_posts\templates\public_posts\1another_posts_city.html:94
+#: .\public_posts\templates\public_posts\1another_posts_city.html:212
+#: .\public_posts\templates\public_posts\1another_posts_country.html:93
+#: .\public_posts\templates\public_posts\1another_posts_country.html:206
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:247
+msgid "What are you looking for"
+msgstr ""
+
+#: .\post\forms.py:12 .\shop\forms.py:11
+msgid "name"
+msgstr ""
+
+#: .\post\forms.py:13
+msgid "price"
+msgstr ""
+
+#: .\post\forms.py:14 .\shop\forms.py:15
+msgid "description"
+msgstr ""
+
+#: .\post\forms.py:15 .\shop\forms.py:10
+msgid "image"
+msgstr ""
+
+#: .\post\forms.py:24 .\public_posts\forms.py:19
+#: .\shop\templates\shop\comment.html:106
+msgid "Leave your comment"
+msgstr ""
+
+#: .\post\forms.py:32
+msgid "reply"
+msgstr ""
+
+#: .\post\templates\post\cart.html:20
+msgid "Remove from cart"
+msgstr ""
+
+#: .\post\templates\post\cart.html:29
+msgid " Add to cart"
+msgstr ""
+
+#: .\post\templates\post\like_section.html:17
+msgid "Dislike"
+msgstr ""
+
+#: .\post\templates\post\like_section.html:26
+msgid "Like"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\1another_posts.html:129
+#: .\public_posts\templates\public_posts\1another_posts_city.html:129
+#: .\public_posts\templates\public_posts\1another_posts_country.html:128
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:118
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:161
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:143
+#: .\public_posts\templates\public_posts\local_user_posts.html:134
+#: .\public_posts\templates\public_posts\user_country_posts.html:135
+#: .\shop\templates\shop\user_shop_posts.html:141
+#: .\shop\templates\shop\user_store.html:394
+msgid "Published"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\1another_posts.html:134
+#: .\public_posts\templates\public_posts\1another_posts.html:150
+#: .\public_posts\templates\public_posts\1another_posts_city.html:134
+#: .\public_posts\templates\public_posts\1another_posts_city.html:150
+#: .\public_posts\templates\public_posts\1another_posts_country.html:133
+#: .\public_posts\templates\public_posts\1another_posts_country.html:149
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:129
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:142
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:170
+#: .\searches\templates\searches\view.html:64
+#: .\shop\templates\shop\comment.html:47 .\shop\templates\shop\comment.html:156
+#: .\shop\templates\shop\comment_reply.html:40
+#: .\shop\templates\shop\home.html:69
+#: .\shop\templates\shop\like_template.html:136
+#: .\shop\templates\shop\user_store.html:155
+msgid "Edit"
+msgstr "editar em kikongo"
+
+#: .\public_posts\templates\public_posts\1another_posts.html:134
+#: .\public_posts\templates\public_posts\1another_posts.html:150
+#: .\public_posts\templates\public_posts\1another_posts_city.html:134
+#: .\public_posts\templates\public_posts\1another_posts_city.html:150
+#: .\public_posts\templates\public_posts\1another_posts_country.html:133
+#: .\public_posts\templates\public_posts\1another_posts_country.html:149
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:129
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:142
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:170
+#: .\searches\templates\searches\view.html:68
+#: .\shop\templates\shop\comment.html:54 .\shop\templates\shop\comment.html:156
+#: .\shop\templates\shop\comment_reply.html:41
+#: .\shop\templates\shop\home.html:69
+#: .\shop\templates\shop\like_template.html:136
+msgid "Delete"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\1another_posts.html:141
+#: .\public_posts\templates\public_posts\1another_posts.html:154
+#: .\public_posts\templates\public_posts\1another_posts_city.html:141
+#: .\public_posts\templates\public_posts\1another_posts_city.html:154
+#: .\public_posts\templates\public_posts\1another_posts_country.html:140
+#: .\public_posts\templates\public_posts\1another_posts_country.html:153
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:224
+#: .\shop\templates\shop\comment.html:114
+#: .\shop\templates\shop\comment.html:212
+msgid "Comment"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\1another_posts.html:186
+#: .\public_posts\templates\public_posts\1another_posts.html:193
+#: .\public_posts\templates\public_posts\1another_posts_city.html:186
+#: .\public_posts\templates\public_posts\1another_posts_city.html:193
+#: .\public_posts\templates\public_posts\1another_posts_country.html:185
+#: .\public_posts\templates\public_posts\1another_posts_country.html:192
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:317
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:324
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:367
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:373
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:265
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:335
+#: .\public_posts\templates\public_posts\local_user_posts.html:263
+#: .\public_posts\templates\public_posts\local_user_posts.html:312
+#: .\public_posts\templates\public_posts\user_country_posts.html:262
+#: .\public_posts\templates\public_posts\user_country_posts.html:307
+msgid "Filter only posts from"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:147
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:259
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:222
+#: .\public_posts\templates\public_posts\local_user_posts.html:213
+#: .\public_posts\templates\public_posts\user_country_posts.html:215
+#: .\shop\templates\shop\comment.html:98
+#: .\shop\templates\shop\user_shop_posts.html:224
+#: .\shop\templates\shop\user_store.html:474
+#: .\shop\templates\shop\view_post.html:125
+msgid "Comments"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:190
+#: .\shop\templates\shop\comment.html:176
+msgid "THIS POST DOES NOT HAVE ANY COMMENT YET"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\1comment_other_posts.html:191
+#: .\shop\templates\shop\comment.html:177
+msgid "be the first one to comment this post"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\1edit_other_posts_comment.html:13
+#: .\shop\templates\shop\comment_reply.html:79
+#: .\shop\templates\shop\edit_comment.html:13
+#: .\shop\templates\shop\edit_shop.html:14
+#: .\shop\templates\shop\upload_shop.html:12
+#: .\users\templates\registration\password_reset_form.html:24
+msgid "Send"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:128
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:355
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:113
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:316
+#: .\public_posts\templates\public_posts\local_user_posts.html:102
+#: .\public_posts\templates\public_posts\local_user_posts.html:290
+#: .\public_posts\templates\public_posts\user_country_posts.html:105
+#: .\public_posts\templates\public_posts\user_country_posts.html:290
+msgid "What other users are looking for"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:217
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:180
+#: .\public_posts\templates\public_posts\local_user_posts.html:171
+#: .\public_posts\templates\public_posts\user_country_posts.html:173
+#: .\searches\templates\searches\view.html:75
+#: .\shop\templates\shop\user_shop_posts.html:182
+#: .\shop\templates\shop\user_store.html:432
+#: .\shop\templates\shop\view_post.html:83
+msgid "Product's name"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:228
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:191
+#: .\public_posts\templates\public_posts\local_user_posts.html:182
+#: .\public_posts\templates\public_posts\user_country_posts.html:184
+#: .\searches\templates\searches\view.html:78
+#: .\shop\templates\shop\user_shop_posts.html:193
+#: .\shop\templates\shop\user_store.html:443
+#: .\shop\templates\shop\view_post.html:94
+msgid " Product's description"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:239
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:202
+#: .\public_posts\templates\public_posts\local_user_posts.html:193
+#: .\public_posts\templates\public_posts\user_country_posts.html:195
+#: .\searches\templates\searches\view.html:81
+#: .\shop\templates\shop\user_shop_posts.html:204
+#: .\shop\templates\shop\user_store.html:454
+#: .\shop\templates\shop\view_post.html:105
+msgid "City | Country"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\all_public_categories_post.html:251
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:214
+#: .\public_posts\templates\public_posts\local_user_posts.html:205
+#: .\public_posts\templates\public_posts\user_country_posts.html:207
+#: .\shop\templates\shop\user_shop_posts.html:216
+#: .\shop\templates\shop\user_store.html:466
+#: .\shop\templates\shop\view_post.html:117
+msgid "Contact"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:232
+msgid "THERE ARE NO POSTS IN YOUR CITY YET"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:261
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:331
+#: .\public_posts\templates\public_posts\local_user_posts.html:259
+#: .\public_posts\templates\public_posts\local_user_posts.html:308
+#: .\public_posts\templates\public_posts\user_country_posts.html:258
+#: .\public_posts\templates\public_posts\user_country_posts.html:304
+msgid "Filtering results from"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:271
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:342
+#: .\public_posts\templates\public_posts\local_user_posts.html:270
+#: .\public_posts\templates\public_posts\local_user_posts.html:318
+#: .\public_posts\templates\public_posts\user_country_posts.html:268
+#: .\public_posts\templates\public_posts\user_country_posts.html:313
+msgid "Show all posts"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:322
+#: .\public_posts\templates\public_posts\local_user_posts.html:296
+msgid "Categories"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\local_user_city_posts.html:352
+#: .\shop\templates\shop\home1.html:40
+msgid "Change language"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\local_user_posts.html:224
+#: .\shop\templates\shop\user_shop_posts.html:235
+msgid "THIS CATEGORY DOES NOT HAVE ANY POST YET"
+msgstr ""
+
+#: .\public_posts\templates\public_posts\user_country_posts.html:225
+msgid "THERE ARE NO POSTS AVAILABLE IN YOUR COUNTRY YET"
+msgstr ""
+
+#: .\searches\templates\searches\search_form.html:35
+#: .\searches\templates\searches\view.html:13
+#: .\searches\templates\searches\view.html:24
+#: .\searches\templates\searches\view.html:25
+msgid "Search"
+msgstr ""
+
+#: .\searches\templates\searches\view.html:15
+msgid "Results for"
+msgstr ""
+
+#: .\shop\forms.py:12 .\shop\templates\shop\all_post_likes.html:22
+msgid "phone"
+msgstr ""
+
+#: .\shop\forms.py:13 .\shop\templates\shop\all_post_likes.html:20
+msgid "city"
+msgstr ""
+
+#: .\shop\forms.py:14 .\shop\templates\shop\all_post_likes.html:21
+msgid "country"
+msgstr ""
+
+#: .\shop\templates\shop\all_post_likes.html:18
+msgid "username"
+msgstr ""
+
+#: .\shop\templates\shop\all_post_likes.html:19
+msgid "shop"
+msgstr ""
+
+#: .\shop\templates\shop\all_posts.html:26
+#: .\shop\templates\shop\list_of_products_added_to_cart.html:44
+msgid "View"
+msgstr ""
+
+#: .\shop\templates\shop\base.html:198
+msgid "Logout"
+msgstr ""
+
+#: .\shop\templates\shop\comment.html:162
+msgid "Replies"
+msgstr ""
+
+#: .\shop\templates\shop\create_your_shop.html:10
+#: .\shop\templates\shop\home1.html:19 .\users\templates\users\register.html:12
+msgid "Step"
+msgstr ""
+
+#: .\shop\templates\shop\create_your_shop.html:10
+#: .\shop\templates\shop\home1.html:19 .\users\templates\users\register.html:12
+msgid "of"
+msgstr ""
+
+#: .\shop\templates\shop\create_your_shop.html:11
+msgid "Create your shop"
+msgstr ""
+
+#: .\shop\templates\shop\delete_post.html:6
+msgid "Are you sure you want to delete this post"
+msgstr ""
+
+#: .\shop\templates\shop\delete_post.html:9
+msgid "Yes, please delete"
+msgstr ""
+
+#: .\shop\templates\shop\delete_post.html:10
+#: .\shop\templates\shop\edit_shop.html:16
+msgid "Cancel"
+msgstr ""
+
+#: .\shop\templates\shop\home.html:73
+msgid "Life is life."
+msgstr ""
+
+#: .\shop\templates\shop\home.html:82
+msgid "Site administration"
+msgstr ""
+
+#: .\shop\templates\shop\home1.html:20
+msgid "Choose your language"
+msgstr ""
+
+#: .\shop\templates\shop\home1.html:26
+msgid "Current language_code"
+msgstr ""
+
+#: .\shop\templates\shop\home1.html:47
+msgid "Take me back to posts"
+msgstr ""
+
+#: .\shop\templates\shop\home1.html:52
+msgid "Take me back to my shop"
+msgstr ""
+
+#: .\shop\templates\shop\list_of_products_added_to_cart.html:11
+msgid "List of products added to your shopping list"
+msgstr ""
+
+#: .\shop\templates\shop\list_of_products_added_to_cart.html:32
+msgid "buy"
+msgstr ""
+
+#: .\shop\templates\shop\list_of_products_added_to_cart.html:38
+msgid "remove from cart"
+msgstr ""
+
+#: .\shop\templates\shop\list_of_products_added_to_cart.html:59
+msgid ""
+"Your shopping list is empty. You haven't added any items to your shopping "
+"cart yet"
+msgstr ""
+
+#: .\shop\templates\shop\user_shop_posts.html:96
+msgid "Post"
+msgstr ""
+
+#: .\shop\templates\shop\user_store.html:158
+msgid "Member since"
+msgstr ""
+
+#: .\shop\templates\shop\user_store.html:166
+msgid "unfollow"
+msgstr ""
+
+#: .\shop\templates\shop\user_store.html:168
+msgid "follow"
+msgstr ""
+
+#: .\shop\templates\shop\user_store.html:177
+msgid "followers"
+msgstr ""
+
+#: .\shop\templates\shop\user_store.html:218
+#: .\shop\templates\shop\user_store.html:273
+msgid "Visit page"
+msgstr ""
+
+#: .\shop\templates\shop\user_store.html:233
+#: .\shop\templates\shop\user_store.html:284
+msgid "Close"
+msgstr ""
+
+#: .\shop\templates\shop\user_store.html:244
+msgid "following"
+msgstr ""
+
+#: .\shop\templates\shop\user_store.html:309
+msgid "Cart"
+msgstr ""
+
+#: .\shop\templates\shop\user_store.html:319
+msgid "Saved posts"
+msgstr ""
+
+#: .\shop\templates\shop\user_store.html:330
+msgid "Views"
+msgstr ""
+
+#: .\shop\templates\shop\user_store.html:484
+msgid "THIS STORE DOES NOT HAVE ANY POST YET"
+msgstr ""
+
+#: .\users\templates\registration\login.html:21
+msgid "Login"
+msgstr ""
+
+#: .\users\templates\registration\login.html:30
+#: .\users\templates\registration\password_reset_form.html:10
+msgid "Reset password"
+msgstr ""
+
+#: .\users\templates\registration\login.html:31
+#: .\users\templates\users\register.html:19
+msgid "Register"
+msgstr ""
+
+#: .\users\templates\registration\password_change_done.html:9
+msgid "Your password was changed successfully"
+msgstr ""
+
+#: .\users\templates\registration\password_change_done.html:11
+msgid "Back to shop"
+msgstr ""
+
+#: .\users\templates\registration\password_change_done.html:13
+msgid "Back to settings"
+msgstr ""
+
+#: .\users\templates\registration\password_change_form.html:10
+msgid "Change password"
+msgstr ""
+
+#: .\users\templates\registration\password_reset_complete.html:10
+msgid "Password reset complete"
+msgstr ""
+
+#: .\users\templates\registration\password_reset_form.html:16
+msgid ""
+"Please type in the box below the email address you've used to create your "
+"account"
+msgstr ""
+
+#: .\users\templates\registration\password_reset_form.html:20
+msgid ""
+"We will send to your email a password reset link to recover your account"
+msgstr ""
+
+#: .\users\templates\users\register.html:14
+msgid "Create your account"
+msgstr ""
+
+#: .\users\templates\users\register.html:22
+msgid "I already have an account"
+msgstr ""
