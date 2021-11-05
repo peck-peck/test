@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+{% extends 'shop/base.html' %}
+{% load i18n %}
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+{% block content %}
+
+{% for announcements in announcements %}
+
+<div class="card alert alert-secondary ">
+            <!-- The slideshow -->
+            <div id="demo" class="carousel slide" data-ride="carousel">
+                <!-- The slideshow -->
+                <div class="carousel-inner">
+
+
+                    <!-- media object lateral & centro-->
+                    <div class="carousel-item active">
+                        <div class="media">
+                          <img src="{{ announcements.photo.url }}" />
+                          <div class="media-body">
+                            <h6 class="ml-2">
+                                {{announcements.text}}<br>
+
+                                 {% if announcements.id == 1 %}
+                                    <span class="badge badge-primary">
+                                        <a href="https://www.cursoemvideo.com" target="_blank" class="text-white">{% trans "Learn more" %}</a>
+                                    </span>
+                                 {% elif announcements.id == 2 %}
+                                    <span class="badge badge-primary">
+                                         <a href="https://www.pdfdrive.com/" target="_blank" class="text-white">{% trans "Learn more" %}</a>
+                                    </span>
+                                 {% endif %}
+
+
+                            </h6>
+                          </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+     </div>
+{% endfor %}
+
+<div class="col-12">
+<div class="col-5 card bg-light mt-5 text-dark">
+            <!-- The slideshow -->
+            <div id="demoo" class="carousel slide" data-ride="carousel">
+                <!-- The slideshow -->
+                <div class="carousel-inner">
+
+                    <div class="carousel-item active">
+                            <b>News</b>
+                    </div>
+
+                    <div class="carousel-item">
+                            <b>Angola</b>
+                    </div>
+
+
+                    <div class="carousel-item">
+                            <b>Politics</b>
+                    </div>
+
+                    <div class="carousel-item">
+                            <b>Sports</b>
+                    </div>
+
+                    <div class="carousel-item">
+                            <b>Tech</b>
+                    </div>
+
+                    <div class="carousel-item">
+                            <b>Business</b>
+                    </div>
+
+                    <div class="carousel-item">
+                            <b>Fashion</b>
+                    </div>
+
+                    <div class="carousel-item">
+                            <b>Entertainment</b>
+                    </div>
+
+                    <div class="carousel-item">
+                            <b>Celebrities</b>
+                    </div>
+                </div>
+            </div>
+
+
+</div>
+    Noticias, despoosto, etc...
+</div>
+
+Change language
+{% endblock %}
+
+</body>
+</html>
+
+
+
